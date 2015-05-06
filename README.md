@@ -1,5 +1,5 @@
 # Arduino-Security-Alarm
-Arduino Security Alarm using LASER lights and LDRs
+Arduino Security Alarm using LDR
 
 Inspired By: http://www.instructables.com/id/Arduino-Security-Box/
 
